@@ -19,8 +19,7 @@
 # <h1><a href="https://github.com/d-r-e-a-n">drean</a> - Visit my portfolio</h1>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=d-r-e-a-n&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" height=160 />
-<img src="https://github-readme-stats.vercel.app/api?username=d-r-e-a-n&show_icons=true&theme=radical&layout=compact" alt="drean's Github Stats" height=160 />
+<img src="/.github/icons/languages.svg" alt="most used languages" height=160 />
 <p>
 
 ***
